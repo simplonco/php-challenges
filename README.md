@@ -8,6 +8,21 @@ The exercises are ordered roughly in order of difficulty, but it's a bit
 haphazard.
 
 
+## How to run tests locally?
+
+```shell
+# Install PHPUnit:
+$ wget https://phar.phpunit.de/phpunit.phar
+$ chmod +x phpunit.phar
+$ sudo mv phpunit.phar /usr/local/bin/phpunit
+
+# Go inside your project folder and:
+$ phpunit *test.php --verbose
+```
+
+http://www.commitstrip.com/fr/2016/02/22/when-the-functional-tests-are-all-red/
+
+
 ## Hamming 
 
 Write a program that can calculate the Hamming difference between two
