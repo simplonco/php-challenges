@@ -4,6 +4,8 @@
 
 Most of these problems are taken from [exercism.io](http://exercism.io) !
 
+![Red light](http://www.lelynx.fr/wp-content/uploads/2015/02/pollution-feu-rouge-1600x1200.jpg)
+
 The exercises are ordered roughly in order of difficulty, but it's a bit
 haphazard.
 
